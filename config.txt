@@ -13,7 +13,7 @@
 // If you don't know how to get a bot token, please see the guide here:
 // https://github.com/jagrosh/MusicBot/wiki/Getting-a-Bot-Token
 
-token = Nzc2NzIwNDAxNjY5Njg1Mjc4.X64_Pg.RBJWrCYKJf5EBL-hS8ptwPMscZw
+token = Nzc2NzIwNDAxNjY5Njg1Mjc4.X64_Pg.obyQVH4bn5KzJ93eqYqbVcC98KE
 
 
 // This sets the owner of the bot
@@ -125,7 +125,7 @@ updatealerts=true
 // If you are interested in contributing a provider, please see
 // https://github.com/jagrosh/JLyrics
 
-lyrics.default = "A-Z Lyrics"
+lyrics.default = "MusicMatch"
 
 
 // These settings allow you to configure custom aliases for all commands.
@@ -144,7 +144,7 @@ aliases {
   // Music commands
   lyrics = []
   nowplaying = [ np, current ]
-  play = []
+  play = [ p ]
   playlists = [ pls ]
   queue = [ list ]
   remove = [ delete ]
